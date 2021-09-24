@@ -15,7 +15,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01</h3>
+                    <h3>Basico</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
                     </ul>
@@ -32,8 +32,15 @@
                         <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li>
                     </ul>
                 </div>
+                <div class="modulo vermelho">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=int">Tipo inteiro</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
+        
     </main>
     <footer class="rodape">
         COD3R & ALUNOS © <?= date('Y'); ?>
