@@ -35,8 +35,27 @@
                 <div class="modulo vermelho">
                     <h3>Tipos</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=tipos&file=int">Tipo inteiro</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=int">Tipo Inteiro</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=aritimedicas">Operações Aritimedicas</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedencia</a></li>
+                    </ul>
+                </div>
+                <div class="modulo azul">
+                    <h3>variavies</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Basico</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                    </ul>
+
                 </div>
             </nav>
         </div>
